@@ -1,0 +1,12 @@
+{
+  "name": "hotel-website-master",
+  "version": "1.0.0",
+  "description": "Website for hotel built on HTML, CSS and JavaScript <br> Checkout Demo [Here](https://hotel-demo-proj.netlify.app/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
